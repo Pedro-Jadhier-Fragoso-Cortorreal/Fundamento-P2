@@ -1,0 +1,14 @@
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\bin\Debug\net8.0\WorkingWithXL.exe
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\bin\Debug\net8.0\WorkingWithXL.deps.json
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\bin\Debug\net8.0\WorkingWithXL.runtimeconfig.json
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\bin\Debug\net8.0\WorkingWithXL.dll
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\bin\Debug\net8.0\WorkingWithXL.pdb
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\obj\Debug\net8.0\WorkingWithXL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\obj\Debug\net8.0\WorkingWithXL.AssemblyInfoInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\obj\Debug\net8.0\WorkingWithXL.AssemblyInfo.cs
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\obj\Debug\net8.0\WorkingWithXL.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\obj\Debug\net8.0\WorkingWithXL.dll
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\obj\Debug\net8.0\refint\WorkingWithXL.dll
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\obj\Debug\net8.0\WorkingWithXL.pdb
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\obj\Debug\net8.0\WorkingWithXL.genruntimeconfig.cache
+C:\Users\Acer Aspire 11TH\source\repos\WorkingWithXL\WorkingWithXL\obj\Debug\net8.0\ref\WorkingWithXL.dll
