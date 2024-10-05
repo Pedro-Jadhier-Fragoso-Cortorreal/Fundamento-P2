@@ -1,0 +1,16 @@
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\bin\Debug\net8.0-windows\T5 data grid.exe
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\bin\Debug\net8.0-windows\T5 data grid.deps.json
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\bin\Debug\net8.0-windows\T5 data grid.runtimeconfig.json
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\bin\Debug\net8.0-windows\T5 data grid.dll
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\bin\Debug\net8.0-windows\T5 data grid.pdb
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\Data_Grid.Form1.resources
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\T5 data grid.csproj.GenerateResource.cache
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\T5 data grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\T5 data grid.AssemblyInfoInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\T5 data grid.AssemblyInfo.cs
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\T5 data grid.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\T5 data grid.dll
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\refint\T5 data grid.dll
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\T5 data grid.pdb
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\T5 data grid.genruntimeconfig.cache
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\ref\T5 data grid.dll

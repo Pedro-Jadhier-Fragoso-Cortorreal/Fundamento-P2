@@ -1,0 +1,16 @@
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\bin\Debug\net8.0-windows\Data Grid.exe
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\bin\Debug\net8.0-windows\Data Grid.deps.json
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\bin\Debug\net8.0-windows\Data Grid.runtimeconfig.json
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\bin\Debug\net8.0-windows\Data Grid.dll
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\bin\Debug\net8.0-windows\Data Grid.pdb
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\Data_Grid.Form1.resources
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\Data Grid.csproj.GenerateResource.cache
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\Data Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\Data Grid.AssemblyInfoInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\Data Grid.AssemblyInfo.cs
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\Data Grid.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\Data Grid.dll
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\refint\Data Grid.dll
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\Data Grid.pdb
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\Data Grid.genruntimeconfig.cache
+C:\Users\Acer Aspire 11TH\source\repos\Data Grid\Data Grid\obj\Debug\net8.0-windows\ref\Data Grid.dll
