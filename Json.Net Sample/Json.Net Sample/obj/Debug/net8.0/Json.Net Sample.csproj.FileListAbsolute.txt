@@ -1,0 +1,17 @@
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\bin\Debug\net8.0\Json.Net Sample.exe
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\bin\Debug\net8.0\Json.Net Sample.deps.json
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\bin\Debug\net8.0\Json.Net Sample.runtimeconfig.json
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\bin\Debug\net8.0\Json.Net Sample.dll
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\bin\Debug\net8.0\Json.Net Sample.pdb
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.AssemblyInfoInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.AssemblyInfo.cs
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.dll
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\refint\Json.Net Sample.dll
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.pdb
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.genruntimeconfig.cache
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\ref\Json.Net Sample.dll
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.csproj.AssemblyReference.cache
+C:\Users\Acer Aspire 11TH\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net.BB1D815F.Up2Date
