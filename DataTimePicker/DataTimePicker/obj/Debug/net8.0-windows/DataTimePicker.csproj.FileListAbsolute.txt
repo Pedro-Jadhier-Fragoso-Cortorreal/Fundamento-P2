@@ -1,0 +1,16 @@
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\bin\Debug\net8.0-windows\DataTimePicker.exe
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\bin\Debug\net8.0-windows\DataTimePicker.deps.json
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\bin\Debug\net8.0-windows\DataTimePicker.runtimeconfig.json
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\bin\Debug\net8.0-windows\DataTimePicker.dll
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\bin\Debug\net8.0-windows\DataTimePicker.pdb
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\DataTimePicker.Form1.resources
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\DataTimePicker.csproj.GenerateResource.cache
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\DataTimePicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\DataTimePicker.AssemblyInfoInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\DataTimePicker.AssemblyInfo.cs
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\DataTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\DataTimePicker.dll
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\refint\DataTimePicker.dll
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\DataTimePicker.pdb
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\DataTimePicker.genruntimeconfig.cache
+C:\Users\Acer Aspire 11TH\source\repos\DataTimePicker\DataTimePicker\obj\Debug\net8.0-windows\ref\DataTimePicker.dll
