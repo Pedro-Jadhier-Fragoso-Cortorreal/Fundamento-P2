@@ -1,0 +1,16 @@
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\bin\Debug\net8.0-windows\ToolStrip.exe
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\bin\Debug\net8.0-windows\ToolStrip.deps.json
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\bin\Debug\net8.0-windows\ToolStrip.runtimeconfig.json
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\bin\Debug\net8.0-windows\ToolStrip.dll
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\bin\Debug\net8.0-windows\ToolStrip.pdb
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\ToolStrip.Form1.resources
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\ToolStrip.csproj.GenerateResource.cache
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\ToolStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\ToolStrip.AssemblyInfoInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\ToolStrip.AssemblyInfo.cs
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\ToolStrip.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\ToolStrip.dll
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\refint\ToolStrip.dll
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\ToolStrip.pdb
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\ToolStrip.genruntimeconfig.cache
+C:\Users\Acer Aspire 11TH\source\repos\ToolStrip\ToolStrip\obj\Debug\net8.0-windows\ref\ToolStrip.dll
