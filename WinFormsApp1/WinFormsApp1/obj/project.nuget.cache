@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4wFdQKSdxKg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer Aspire 11TH\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer Aspire 11TH\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\Acer Aspire 11TH\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
